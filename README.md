@@ -6,7 +6,7 @@ pero con ciertas aclaraciones y modificaciones, además de la traducción al esp
 Creado por Juan Esteban Pineda Lopera, estudiante de Bioingeniería
 
 
-<p align="center">![Logo del semillero NeuroCo](https://avatars.githubusercontent.com/u/64290460?s=280&v=4)</p>
+<p align="center"> ![Logo del semillero NeuroCo](https://avatars.githubusercontent.com/u/64290460?s=280&v=4) </p>
 
 
-<p align="center">![Logo de la facultad de ingeniería UdeA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSWVRazYktwVfo2uHw_-h2WJqo1_OVVa_Lw&s)</p>
+<p align="center"> ![Logo de la facultad de ingeniería UdeA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSWVRazYktwVfo2uHw_-h2WJqo1_OVVa_Lw&s) </p>
