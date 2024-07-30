@@ -6,10 +6,8 @@ pero con ciertas aclaraciones y modificaciones, además de la traducción al esp
 Creado por Juan Esteban Pineda Lopera, estudiante de Bioingeniería
 
 
-<center>
+<div style = "text-align:center;">
   <img src="https://avatars.githubusercontent.com/u/64290460?s=280&v=4" alt="Logo del semillero NeuroCo">
-</center>
 
-<center>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSWVRazYktwVfo2uHw_-h2WJqo1_OVVa_Lw&s" alt="Logo de la facultad de ingeniería UdeA">
-</center>
+</div>
