@@ -8,7 +8,7 @@ Creado por:
   - Nicolas Vargas Flores.
   - Paula Andrea Cataño Cano.
   - Juan Esteban Pineda Lopera
-Estudiantes de Bioingeniería
+\nEstudiantes de Bioingeniería
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/64290460?s=280&v=4" alt="Logo del semillero NeuroCo" style="display: block; margin: 0 auto;">
